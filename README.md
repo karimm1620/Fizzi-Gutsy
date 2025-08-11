@@ -38,7 +38,7 @@ Fizzi Soda is more than just landing page-it's a digital showcase of how animati
 
 2. Install dependencies:
    ```bash
-   npm run dev
+   npm install
 
 3. Setup your Prismic environments (refer to project docs).
 
