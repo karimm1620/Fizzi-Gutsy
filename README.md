@@ -3,6 +3,7 @@
 **Fizzi Soda** is an immersive and visually captivating 3D landing page built with modern web technologies. Crafted for both commercial appeal and creative exploration, it showcases smooth, scroll-based animations and engaging interactions that make browsing feel like a visual experience.
 
 ### Live Demo
+<img src="/public/Screenshot.png" href="https://fizzi-gutsy-xi.vercel.app/" />
 [Try it yourself 😉 => ]
 (https://fizzi-gutsy-xi.vercel.app/)
 
